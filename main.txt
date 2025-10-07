@@ -1,2 +1,3 @@
 This is the main branch
 Изменение из ветки main
+Изменение из ветки new_conflict-branch
